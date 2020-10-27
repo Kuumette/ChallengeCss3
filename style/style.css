@@ -1,5 +1,5 @@
 :root{
-    --mainColor:#add980;
+    --mainColor:#ff00dd;
 }
 
 html, body{
@@ -25,7 +25,7 @@ header{
     background-size:stretch;
     flex-direction: column;
     justify-content: space-between;
-    color:white;
+    color:rgb(255, 0, 200);
 }
 
 header img{
